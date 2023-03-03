@@ -1,0 +1,19 @@
+03-01-2023 @ 11:48:47 - ---[ New import started at 2023-03-01 11:48:47 ] PHP Memory: , WP Memory: 40 B
+03-01-2023 @ 11:48:47 - File fetched from the server, Import initiated....
+03-01-2023 @ 11:48:48 - Using PclZip module for zip file extracton
+03-01-2023 @ 11:49:14 - Zip file extracted suceessfully
+03-01-2023 @ 11:49:16 - Db file initialized successfull
+03-01-2023 @ 11:49:17 - Database connection established.
+03-01-2023 @ 11:49:17 - Database import started...
+03-01-2023 @ 11:49:20 - 1 out of 8 Checkpoint imported.
+03-01-2023 @ 11:49:22 - 2 out of 8 Checkpoint imported.
+03-01-2023 @ 11:49:23 - 3 out of 8 Checkpoint imported.
+03-01-2023 @ 11:49:24 - 4 out of 8 Checkpoint imported.
+03-01-2023 @ 11:49:45 - 5 out of 8 Checkpoint imported.
+03-01-2023 @ 11:49:47 - 6 out of 8 Checkpoint imported.
+03-01-2023 @ 11:49:48 - 7 out of 8 Checkpoint imported.
+03-01-2023 @ 11:49:49 - 8 out of 8 Checkpoint imported.
+03-01-2023 @ 11:49:50 - Table renaming started.
+03-01-2023 @ 11:49:50 - Tables renamed successfully
+03-01-2023 @ 11:49:50 - Import process completed.
+03-01-2023 @ 11:49:50 - ---[ Import Ended at 2023-03-01 11:49:50 ] --- 
